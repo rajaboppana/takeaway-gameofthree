@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12870986/100696370-58bd1b80-33ce-11eb-8542-76fd93256917.png">
-</p>
 
-# GOT - Game of three
+# Game of three - Takeway Challange
 
 ## Goal
 The Goal is to implement a game with two independent units – the players –
