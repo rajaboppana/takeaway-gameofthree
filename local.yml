@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: compose/local/server/Dockerfile
+    image: got_local_tomcat
+    ports:
+      - "8080:8080"
+

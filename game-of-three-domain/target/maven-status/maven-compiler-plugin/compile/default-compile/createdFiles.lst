@@ -1,0 +1,6 @@
+com\games\gameofthree\repository\PlayerRepository.class
+com\games\gameofthree\domain\GameStateEnum.class
+com\games\gameofthree\domain\Player.class
+com\games\gameofthree\domain\GameRound.class
+com\games\gameofthree\domain\GameModeEnum.class
+com\games\gameofthree\domain\GameState.class

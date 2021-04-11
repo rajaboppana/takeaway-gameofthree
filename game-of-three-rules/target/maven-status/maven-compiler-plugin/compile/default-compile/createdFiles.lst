@@ -1,0 +1,6 @@
+com\games\gameofthree\rules\player\PlayerPolicy.class
+com\games\gameofthree\rules\player\PlayerNamePolicy.class
+com\games\gameofthree\rules\player\PlayerNumberPolicy.class
+com\games\gameofthree\player\exceptions\PlayerCannotBeRegistredException.class
+com\games\gameofthree\player\exceptions\PlayerCannotBeRegistredReason.class
+com\games\gameofthree\rules\game\GamePolicy.class
